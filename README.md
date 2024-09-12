@@ -10,6 +10,7 @@ Each folder contains the following subfolders:
 - *3_FIS.
 - *4_ANFIS_11.
 - *5_ANFIS_41.
+
 where the asterisk is equal to A, B, or C.
 
 *1_ANN_1_hid_lay FOLDERS
