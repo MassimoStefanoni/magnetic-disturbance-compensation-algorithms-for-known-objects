@@ -1,5 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Description of the content of the repository.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 This repository contains some algorithms proposed in the article "A Comparison of Neural Networks and Fuzzy Inference Systems for the Identification of Magnetic Disturbances in Mobile Robot Localization". The algorithms aim to compensate for disturbances induced by known metallic objects. The algorithms are developed in MATLAB.
